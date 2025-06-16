@@ -4,7 +4,11 @@
   Desarrollador web apasionado por transformar ideas en productos reales.  
   En constante aprendizaje, con foco en el desarrollo full-stack y la creación de experiencias interactivas.  
 </p>
-
+<p align="center">
+  <a href="https://vscode-portfolio-eight-ochre.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Ver%20mi%20portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 🚀 Tecnologías y herramientas que uso
