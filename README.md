@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://vscode-portfolio-eight-ochre.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Ver%20mi%20portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐 Ver%20mi%20portafolio-007ACC?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 ---
