@@ -37,6 +37,9 @@ App completa para gestionar inventario, productos y usuarios. Incluye autenticac
 🔹 **[simulador-torneos](https://github.com/RicardoNatera/simulador-torneos)**  
 Simulador de torneos con brackets, lógica de eliminación y generación de resultados. Visual, divertido y personalizable para cualquier deporte.
 
+🔹 **[visualizador-algoritmos](https://github.com/RicardoNatera/visualizador-algoritmos)**  
+Visualizador de algoritmos de ordenamiento y rutas.
+
 ---
 
 ## 🧭 ¿Buscando un desarrollador web?
