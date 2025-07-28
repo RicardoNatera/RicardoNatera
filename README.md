@@ -31,6 +31,9 @@
 🔹 **[vscode-portfolio](https://github.com/RicardoNatera/vscode-portfolio)**  
 Un portafolio estilo Visual Studio Code, interactivo, temático y desplegado en Vercel. ¡Sí, puedes abrir archivos como si fuera un IDE real!
 
+🔹 **[Push Anime](https://github.com/RicardoNatera/ultimos-animes-app)**  
+Web app para explorar y descargar los últimos episodios de anime publicados en AnimeFLV, OtakusTV y AnimeAV1. Incluye orden por publicaciones más recientes, agrupación de episodios y buscador multifuente.
+
 🔹 **[inventario-app](https://github.com/RicardoNatera/inventario-app)**  
 App completa para gestionar inventario, productos y usuarios. Incluye autenticación y CRUD. Ideal para pequeños negocios o como base para SaaS.
 
